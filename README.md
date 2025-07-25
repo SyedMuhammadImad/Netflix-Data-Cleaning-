@@ -9,7 +9,7 @@ This project focuses on cleaning and exploring the **Netflix titles dataset** us
 - numpy
 
 ## 📁 Files Included
-- `netflix_data_cleaning.py` – The main data cleaning and visualization script
+- [`netflix_data_cleaning.py`](netflix_data_cleaning.py) – The main data cleaning and visualization script
 - `netflix_titles.csv` – Dataset from Kaggle (see link below)
 
 ## 📌 Project Tasks
