@@ -1,0 +1,72 @@
+{
+  "date": "2026-10-05",
+  "title": "Netflix cleaning and ETL coursework",
+  "runtime_verified_for_publication": false,
+  "files": [
+    {
+      "path": ".gitignore",
+      "sha256": "5d88202b853217c723bde4ea54206901e0bb7f1e0e782347d799332a294adc6f",
+      "bytes": 421
+    },
+    {
+      "path": "netflix_data_cleaning.py",
+      "sha256": "d8fbd8a1c054286db11af6d25b6b0f5a80956cb96ac0bcd82931f3fa78975490",
+      "bytes": 1119
+    },
+    {
+      "path": "netflix_titles.csv",
+      "sha256": "df1f4ad2027a5a14c3a33932ef0d4054565ff88adf92b7f263601b70fdc6f3f3",
+      "bytes": 3399671
+    },
+    {
+      "path": "README.md",
+      "sha256": "466e309e035e29337a7709d84210419a6b9a2fa4437698999ca9d016521d0fef",
+      "bytes": 743
+    },
+    {
+      "path": "additional_sources/2026_D_assigmnets/assignment no 2.py",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "bytes": 0
+    },
+    {
+      "path": "additional_sources/2026_D_assigmnets/Assignment_1_DW_Imad.docx.md",
+      "sha256": "cf3ecfbed5d426e31493aaa02b813d1244969dbfcbb7c280977e83f5ba98368b",
+      "bytes": 4995
+    },
+    {
+      "path": "additional_sources/2026_D_assigmnets/Assignment_2_DW_Imad.docx.md",
+      "sha256": "9328ef93d8a1b166a42d8656cf58ea68f47bbec6f735f18995d154e4127b1ec4",
+      "bytes": 8938
+    },
+    {
+      "path": "additional_sources/2026_D_assigmnets/ETL_Netflix_Imad.py",
+      "sha256": "3c27e08c441c18fd73233d604b52016c663f72685847e5d0e807925baec892f5",
+      "bytes": 6034
+    },
+    {
+      "path": "additional_sources/2026_D_assigmnets/ETL__Assignment f2023376179.docx.md",
+      "sha256": "74f0c84e4e090414c389526d293c0f091743573b2559d84d612ad406d9320d55",
+      "bytes": 2031
+    },
+    {
+      "path": "additional_sources/2026_D_assigmnets/ETL__Assignment.docx.md",
+      "sha256": "9b697042db49b9d54085a08dd1ffb41c60edb959c33bb395f6ea0c2d4740f655",
+      "bytes": 2307
+    },
+    {
+      "path": "additional_sources/ass2 code/ass2 code.ipynb",
+      "sha256": "374c1b996c8df66b65b13626336ec7a625b4bcccf957119aca98632f144a3ecb",
+      "bytes": 10276
+    },
+    {
+      "path": "additional_sources/assignment no 2/assignment no 2.py",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "bytes": 0
+    },
+    {
+      "path": "additional_sources/ETL_Netflix_Imad/ETL_Netflix_Imad.py",
+      "sha256": "3c27e08c441c18fd73233d604b52016c663f72685847e5d0e807925baec892f5",
+      "bytes": 6034
+    }
+  ]
+}
