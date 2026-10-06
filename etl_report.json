@@ -1,0 +1,10 @@
+{
+  "input_rows": 8807,
+  "clean_rows": 8797,
+  "discarded_rows": 10,
+  "counts_by_type": {
+    "Movie": 6131,
+    "TV Show": 2666
+  },
+  "rerun_idempotent": true
+}

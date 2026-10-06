@@ -1,10 +1,5 @@
 # Netflix cleaning and ETL coursework
 
-Learning/coursework project. Attribution is retained where present. Runtime verification was not performed for publication.
+Extract, transform and load; repeat loads replace this coursework table without appending duplicates. Raw input CSV is included. `python etl.py --data netflix_titles.csv --database :memory: --report etl_report.json` runs without Google Colab or a downloader. Specify a database path only for a disposable project database.
 
-
-## Publication copy
-
-Published 5 October 2026 at the owner's request. This is a sanitized source snapshot. Original local Git history and original files remain unchanged. Pictures, videos, binary archives, private/runtime data, dependency folders and credentials are excluded. Notebook outputs, attachments and incidental metadata are removed. Documents are text-only extracts. Media references and redacted configuration may need replacements before running. No claim of successful rerun, production readiness, sole authorship or independent validation is implied.
-
-
+Install `requirements.txt`. Fresh numeric results and the completed verification checks are included. Pictures, videos and credentials are omitted. Original laptop copies are preserved.
