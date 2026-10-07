@@ -1,6 +1,6 @@
 {
-  "date": "2026-10-07",
-  "title": "Netflix cleaning and ETL coursework",
+  "date": "2026-10-08",
+  "title": "Netflix cleaning and ETL project",
   "completion_gate_passed": true,
   "files": [
     {
@@ -10,8 +10,8 @@
     },
     {
       "path": "etl.py",
-      "sha256": "cffdea530c86a2979a0daea2fcc80b3a7e6bb2bc1dc94ba904c790b6ffb0cd1e",
-      "bytes": 2870
+      "sha256": "d19102027664e06ca75a0ec909704826e4945eca8e17412c51000612d02b7353",
+      "bytes": 2911
     },
     {
       "path": "etl_report.json",
@@ -25,13 +25,13 @@
     },
     {
       "path": "netflix_titles.csv",
-      "sha256": "df1f4ad2027a5a14c3a33932ef0d4054565ff88adf92b7f263601b70fdc6f3f3",
-      "bytes": 3399671
+      "sha256": "bbd88a97c3ed035b84d3fa20615317faa18921ceb76e75f1a7ac90f1fdcdc822",
+      "bytes": 3408589
     },
     {
       "path": "README.md",
-      "sha256": "f13d6698ab8b1191a16177dd9c914cef8086a16a114938bc263f581fc7a9f72b",
-      "bytes": 554
+      "sha256": "bafea33483ac9e9a00e661ed60f2964f2470d4d03436036eebb1db6bc65ef697",
+      "bytes": 548
     },
     {
       "path": "requirements.txt",
@@ -40,46 +40,16 @@
     },
     {
       "path": "VERIFICATION.json",
-      "sha256": "3bed97350f44a4ce035138cf3c41ebc22eb5544bf8ed2fbb5ed0141d1a15db99",
-      "bytes": 651
-    },
-    {
-      "path": "additional_sources/2026_D_assigmnets/assignment no 2.py",
-      "sha256": "10d6b353f7a7b97f1b3e52806a1abbb1a17daaddf3c7a1f3bd44e720cee7071a",
-      "bytes": 292
-    },
-    {
-      "path": "additional_sources/2026_D_assigmnets/Assignment_1_DW_Imad.docx.md",
-      "sha256": "cf3ecfbed5d426e31493aaa02b813d1244969dbfcbb7c280977e83f5ba98368b",
-      "bytes": 4995
-    },
-    {
-      "path": "additional_sources/2026_D_assigmnets/Assignment_2_DW_Imad.docx.md",
-      "sha256": "9328ef93d8a1b166a42d8656cf58ea68f47bbec6f735f18995d154e4127b1ec4",
-      "bytes": 8938
-    },
-    {
-      "path": "additional_sources/2026_D_assigmnets/ETL_Netflix_Imad.py",
-      "sha256": "10d6b353f7a7b97f1b3e52806a1abbb1a17daaddf3c7a1f3bd44e720cee7071a",
-      "bytes": 292
-    },
-    {
-      "path": "additional_sources/2026_D_assigmnets/ETL__Assignment f2023376179.docx.md",
-      "sha256": "74f0c84e4e090414c389526d293c0f091743573b2559d84d612ad406d9320d55",
-      "bytes": 2031
-    },
-    {
-      "path": "additional_sources/2026_D_assigmnets/ETL__Assignment.docx.md",
-      "sha256": "9b697042db49b9d54085a08dd1ffb41c60edb959c33bb395f6ea0c2d4740f655",
-      "bytes": 2307
+      "sha256": "c9472bfc7e596746e50b9524f92b7af4074ae7fb25323119aeb4f7378a1e428a",
+      "bytes": 659
     },
     {
       "path": "additional_sources/ass2 code/ass2 code.ipynb",
-      "sha256": "d1cf9cd1b86b040a4d69b99a2a486ce5b1b16aa28573e9aed8dcb94cdad55ddf",
-      "bytes": 1936
+      "sha256": "7cb08275f0b2194de292e6b53efa5ca2ccfcc3228a613083ad4cd2a86d97e63d",
+      "bytes": 1933
     },
     {
-      "path": "additional_sources/assignment no 2/assignment no 2.py",
+      "path": "additional_sources/components no 2/components no 2.py",
       "sha256": "10d6b353f7a7b97f1b3e52806a1abbb1a17daaddf3c7a1f3bd44e720cee7071a",
       "bytes": 292
     },
@@ -87,6 +57,36 @@
       "path": "additional_sources/ETL_Netflix_Imad/ETL_Netflix_Imad.py",
       "sha256": "10d6b353f7a7b97f1b3e52806a1abbb1a17daaddf3c7a1f3bd44e720cee7071a",
       "bytes": 292
+    },
+    {
+      "path": "additional_sources/etl_variants/components no 2.py",
+      "sha256": "10d6b353f7a7b97f1b3e52806a1abbb1a17daaddf3c7a1f3bd44e720cee7071a",
+      "bytes": 292
+    },
+    {
+      "path": "additional_sources/etl_variants/components_1_DW_Imad.docx.md",
+      "sha256": "bac151b6567932a0a68ef2c9e66928df8421272d7c32180add2e239b5afc47c0",
+      "bytes": 5103
+    },
+    {
+      "path": "additional_sources/etl_variants/components_2_DW_Imad.docx.md",
+      "sha256": "d9bb8f62bcb45e8ebf0a9358b0834d337f78183066edf3ce700130565e2e549f",
+      "bytes": 9263
+    },
+    {
+      "path": "additional_sources/etl_variants/ETL_Netflix_Imad.py",
+      "sha256": "10d6b353f7a7b97f1b3e52806a1abbb1a17daaddf3c7a1f3bd44e720cee7071a",
+      "bytes": 292
+    },
+    {
+      "path": "additional_sources/etl_variants/ETL__components imad.docx.md",
+      "sha256": "eeb50b306fc6a5af762aa6761242e243914d1a580fb60a2a31859c2a700f2a66",
+      "bytes": 2077
+    },
+    {
+      "path": "additional_sources/etl_variants/ETL__components.docx.md",
+      "sha256": "7bad68c868a140ea2a98aea09dc7903c82033599e17912f044e27992afd48985",
+      "bytes": 2346
     }
   ]
 }

@@ -1,7 +1,7 @@
 {
   "date": "2026-10-07",
   "project": "Netflix-Data-Cleaning-",
-  "completion_scope": "academic project or finished document; not a production certification",
+  "completion_scope": "experimental project or finished document; not a production certification",
   "checks": [
     {
       "name": "Portable CLI on full supplied historical dataset",
@@ -17,6 +17,6 @@
     }
   ],
   "limitations": [
-    "Historical academic analysis; dataset coverage and reporting quality limit conclusions."
+    "Historical experimental analysis; dataset coverage and reporting quality limit conclusions."
   ]
 }

@@ -1,4 +1,4 @@
-"""Portable Netflix extract → transform → load coursework pipeline."""
+"""Portable Netflix extract → transform → load project pipeline."""
 import argparse,json,sqlite3
 from pathlib import Path
 import pandas as pd
